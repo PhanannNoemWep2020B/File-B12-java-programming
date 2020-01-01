@@ -1,0 +1,14 @@
+package phanann_noem_CH3_HW1;
+
+public class Array {
+
+	public Array() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,12 @@
+
+public class Array {
+
+	public Array() {
+		// TODO Auto-generated constructor stub
+		int[] arrayNumber= {4,3};
+		System.out.println("First Item" + arrayNumber[0]);
+		System.out.println("First Item" + arrayNumber[1]);
+		System.out.println("First Item" + arrayNumber[2]);
+	}
+
+}
